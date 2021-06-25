@@ -1,0 +1,7 @@
+D:\Desk Top\CN5\PRN292\ASM_1\bin\Debug\ASM_1.exe.config
+D:\Desk Top\CN5\PRN292\ASM_1\bin\Debug\ASM_1.exe
+D:\Desk Top\CN5\PRN292\ASM_1\bin\Debug\ASM_1.pdb
+D:\Desk Top\CN5\PRN292\ASM_1\obj\Debug\ASM_1.csprojAssemblyReference.cache
+D:\Desk Top\CN5\PRN292\ASM_1\obj\Debug\ASM_1.csproj.CoreCompileInputs.cache
+D:\Desk Top\CN5\PRN292\ASM_1\obj\Debug\ASM_1.exe
+D:\Desk Top\CN5\PRN292\ASM_1\obj\Debug\ASM_1.pdb
